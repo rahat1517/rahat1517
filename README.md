@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm G. M. Rashidul Islam Rahat
 
-<p>Currently pursuing my Bachelors degree in Software Engineering</p>
+<p>Currently pursuing my Bachelor's degree in Software Engineering</p>
 
 - 🌱 I’m currently learning JavaScript,React,FastAPI
 - 📫 How to reach me: bsse1517@iit.du.ac.bd
