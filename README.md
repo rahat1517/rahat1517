@@ -2,7 +2,7 @@
 
 <p>Currently pursuing my Bachelor's degree in Software Engineering</p>
 
-- 🌱 I’m currently learning JavaScript,React,FastAPI
+- 🌱 I’m currently learning JavaScript,React,Node.js
 - 📫 How to reach me: bsse1517@iit.du.ac.bd
 
 ---
