@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering undergraduate at **IIT, University of Dhaka** — currently in 4th semester, CGPA **3.23 / 4.00**
+- 🎓 Software Engineering undergraduate at **IIT, University of Dhaka** — currently in 8th semester, CGPA **3.23 / 4.00**
 - 🤖 I build **offline AI agents** with Python and local LLMs (Ollama)
 - 💻 I build **full-stack web apps** with React, Node.js, Flask & MySQL, desktop apps in **Java**, and tools in **C**
 - 🧠 Solved **150+ problems** on LeetCode and Codeforces
