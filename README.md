@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm G. M. Rashidul Islam Rahat 👋</h1>
-<h3 align="center">Software Engineer · Full-Stack Developer · BSSE @ IIT, University of Dhaka</h3>
+<h3 align="center">Software Engineer · Full-Stack &amp; AI Developer · BSSE @ IIT, University of Dhaka</h3>
 
 <p align="center">
   <a href="https://rahat1517.github.io/Rahat-s-Portfolio/">
@@ -19,7 +19,8 @@
 ### 🚀 About Me
 
 - 🎓 Software Engineering undergraduate at **IIT, University of Dhaka** — currently in 4th semester, CGPA **3.23 / 4.00**
-- 💻 I build **full-stack web apps** with React, Node.js & MySQL, desktop apps in **Java**, and tools in **C**
+- 🤖 I build **offline AI agents** with Python and local LLMs (Ollama)
+- 💻 I build **full-stack web apps** with React, Node.js, Flask & MySQL, desktop apps in **Java**, and tools in **C**
 - 🧠 Solved **150+ problems** on LeetCode and Codeforces
 - 📐 Experienced in requirements engineering (IEEE SRS)
 - 🔍 **Open to Software Engineering internships & junior roles**
@@ -31,7 +32,10 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **Offline Bank AI Agent** | Answers banking questions in Bangla/Banglish by turning them into read-only SQL over an 8-table database, running 100% offline on a local LLM | Python · Ollama · SQLite · Streamlit |
 | **Academix** | Full-stack semester fee management system with online payments, account verification and role-based dashboards | React · Node.js · MySQL |
+| **Goal Tracker Admin Portal** | Football-themed admin portal with Three.js 3D animations and a live match simulation | Flask · Three.js · Tailwind |
+| **LLMs as Measured Components** | Course work: a SQL calculation agent and an English vs Bangla token-cost comparison on a local model | Python · Ollama |
 | [**C Syntax Checker**](https://github.com/rahat1517/SPL_-1) | Analyzes C source files and reports syntax errors with clear diagnostics | C |
 | [**Rahat Shop**](https://github.com/rahat1517/RahatShop) | Inventory & stock management desktop app for small businesses | Java · JavaFX · MySQL |
 | [**Inventory Management System**](https://github.com/rahat1517/WebTechProject) | Web-based inventory app for managing products and stock | PHP · SQLite · JavaScript |
@@ -44,7 +48,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,react,nodejs,html,css,mysql,sqlite,arduino,git,github,vscode&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,react,nodejs,flask,tailwind,threejs,html,css,mysql,postgres,sqlite,arduino,git,github,vscode&perline=10" alt="Tech stack" />
 </p>
 
 ---
