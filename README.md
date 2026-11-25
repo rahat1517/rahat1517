@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering undergraduate at **IIT, University of Dhaka** (Class of 2027)
+- 🎓 Software Engineering undergraduate at **IIT, University of Dhaka** — currently in 4th semester, CGPA **3.23 / 4.00**
 - 💻 I build **full-stack web apps** with React, Node.js & MySQL, desktop apps in **Java**, and tools in **C**
 - 🧠 Solved **150+ problems** on LeetCode and Codeforces
 - 📐 Experienced in requirements engineering (IEEE SRS)
