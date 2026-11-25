@@ -23,7 +23,7 @@
 - 💻 I build **full-stack web apps** with React, Node.js, Flask & MySQL, desktop apps in **Java**, and tools in **C**
 - 🧠 Solved **150+ problems** on LeetCode and Codeforces
 - 📐 Experienced in requirements engineering (IEEE SRS)
-- 🔍 **Open to Software Engineering internships & junior roles**
+- 🔍 **Graduating 2027 · Open to junior Software Engineering roles & internships**
 - 📍 Dhaka, Bangladesh
 
 ---
