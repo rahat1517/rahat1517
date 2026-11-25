@@ -5,6 +5,9 @@
   <a href="https://rahat1517.github.io/Rahat-s-Portfolio/">
     <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-rahat1517.github.io-c8f050?style=for-the-badge&labelColor=080808" alt="Portfolio" />
   </a>
+  <a href="https://rahat1517.github.io/Rahat-s-Portfolio/resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_R%C3%A9sum%C3%A9-PDF-50f0c8?style=for-the-badge&labelColor=080808" alt="Resume" />
+  </a>
 </p>
 
 <p align="center">
@@ -67,7 +70,7 @@
 ---
 
 <p align="center">
-  💬 <b>Hiring?</b> Reach me at <a href="mailto:bsse1517@iit.du.ac.bd">bsse1517@iit.du.ac.bd</a> or see my <a href="https://rahat1517.github.io/Rahat-s-Portfolio/">portfolio</a>.
+  💬 <b>Hiring?</b> Reach me at <a href="mailto:bsse1517@iit.du.ac.bd">bsse1517@iit.du.ac.bd</a>, see my <a href="https://rahat1517.github.io/Rahat-s-Portfolio/">portfolio</a>, or download my <a href="https://rahat1517.github.io/Rahat-s-Portfolio/resume.pdf">résumé</a>.
 </p>
 
 <p align="center">
